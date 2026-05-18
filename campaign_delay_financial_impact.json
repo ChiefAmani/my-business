@@ -1,0 +1,72 @@
+{
+  "model_name": "Cost of Campaign Delay Analysis",
+  "description": "Financial impact assessment of outstanding campaign calendar and marketing content deliverables.",
+  "assumptions": {
+    "original_campaign_launch_date": "2026-05-17",
+    "estimated_delay_in_weeks": {
+      "bear_case": 6,
+      "base_case": 4,
+      "bull_case": 2,
+      "source": "CFO estimate based on project status"
+    },
+    "estimated_monthly_campaign_revenue": {
+      "bear_case": 40000,
+      "base_case": 50000,
+      "bull_case": 60000,
+      "source": "Hypothetical campaign revenue, requires CMO input for validation"
+    },
+    "estimated_monthly_campaign_variable_costs": {
+      "bear_case": 12000,
+      "base_case": 10000,
+      "bull_case": 8000,
+      "source": "Hypothetical campaign variable costs, requires CMO input for validation"
+    },
+    "estimated_monthly_fixed_costs_during_delay": {
+      "value": 15000,
+      "source": "CFO estimate for ongoing operational costs during delay"
+    }
+  },
+  "scenarios": {
+    "bear_case": {
+      "delay_in_months": 1.5,
+      "lost_revenue": 60000,
+      "continued_fixed_costs": 22500,
+      "total_financial_impact": 82500
+    },
+    "base_case": {
+      "delay_in_months": 1.0,
+      "lost_revenue": 50000,
+      "continued_fixed_costs": 15000,
+      "total_financial_impact": 65000
+    },
+    "bull_case": {
+      "delay_in_months": 0.5,
+      "lost_revenue": 30000,
+      "continued_fixed_costs": 7500,
+      "total_financial_impact": 37500
+    }
+  },
+  "top_risks": [
+    {
+      "risk_name": "Execution Risk: Campaign Launch Delay",
+      "probability": 5,
+      "impact": 5,
+      "risk_score": 25,
+      "mitigation": "CTO to complete campaign_calendar.json; CMO to develop marketing content."
+    },
+    {
+      "risk_name": "Financial Risk: Lost Revenue & Increased Costs",
+      "probability": 5,
+      "impact": 4,
+      "risk_score": 20,
+      "mitigation": "Expedite campaign launch to minimize delay and associated financial impact."
+    },
+    {
+      "risk_name": "Reporting Discrepancy Risk",
+      "probability": 4,
+      "impact": 3,
+      "risk_score": 12,
+      "mitigation": "CIO to investigate and resolve 'QA STATUS: PASSED' vs. 'outstanding deliverables' discrepancy."
+    }
+  ]
+}
