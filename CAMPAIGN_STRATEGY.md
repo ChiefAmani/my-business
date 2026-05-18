@@ -3,6 +3,16 @@
 ## Product/Service Overview
 My Business develops and publishes engaging, casual 2D games, exemplified by titles like a Tron-style game and a Johnny Bravo joke game. The focus is on creating accessible, fun, and lighthearted entertainment experiences for a broad audience.
 
+## Unique Selling Propositions (USPs)
+
+### Tron-style Game
+*   **USP:** Visually stunning, fast-paced arcade action with a nostalgic aesthetic.
+*   **Key Benefits:** Offers quick, satisfying bursts of challenge and retro-futuristic immersion. Easy to learn, difficult to master gameplay loop.
+
+### Johnny Bravo Joke Game
+*   **USP:** Humorous, character-driven mini-games leveraging Johnny Bravo's iconic personality and catchphrases.
+*   **Key Benefits:** Provides laugh-out-loud entertainment and shareable comedic moments. Appeals to fans of classic Cartoon Network humor and lighthearted, quirky gameplay.
+
 ## Target Audience Personas
 
 ### Persona 1: Casual Gamer Chris
