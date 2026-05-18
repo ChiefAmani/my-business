@@ -1,19 +1,34 @@
 # TECHNICAL_SPEC.md
 
 ## Project Overview
-This project implements a simple "Guess the Number" game in Python. The game will generate a random integer within a predefined range, and the user will attempt to guess it. The game provides feedback to the user, indicating whether their guess is too high or too low, until the correct number is identified.
+A simple web-based "Guess the Number" game where a user tries to guess a randomly generated number within a specified range. The system provides feedback (too high, too low, correct) and tracks the number of attempts.
 
 ## Tech Stack
-- python==3.9.0 (or latest stable 3.x)
+- fastapi==0.110.0
+- pydantic==2.6.1
 
 ## File Tree
-- game_code/guess_the_number.py
+- backend/
+  - main.py
+  - requirements.txt
 
 ## API Endpoints
-Not applicable for this standalone script.
+- Method: POST
+- Path: /api/game/start
+- Request body: { "min_number": int, "max_number": int }
+- Response: { "game_id": str, "message": str }
+- Auth: None
+
+- Method: POST
+- Path: /api/game/guess
+- Request body: { "game_id": str, "guess": int }
+- Response: { "message": str, "attempts": int, "is_correct": bool }
+- Auth: None
 
 ## Environment Variables
-Not applicable for this standalone script.
+None
 
 ## Dependencies
-No external dependencies. Uses only Python's standard library.
+fastapi==0.110.0
+pydantic==2.6.1
+uvicorn==0.29.0
