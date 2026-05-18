@@ -1,24 +1,22 @@
 
 
 ### Iteration 1, Phase 1
-**QA REJECTION: FAILURE LESSON**
+**QA Failure Lesson:**
 
-*   **Deliverables incomplete:** Core "Game Code File" absent; project fundamentally misaligned with scope. QA failed to flag this critical omission.
-*   **Root Cause: Definition of Done failure:** No explicit verification gate for mandatory core deliverables prior to QA. QA process lacked a fundamental checklist for project type.
-*   **Action: Mandatory Pre-QA Checklist:** Implement a strict pre-QA checklist verifying all core deliverables (e.g., code, documentation, tests) are present and meet scope. QA must reject immediately if checklist items are missing.
+*   **Specific Failure:** QA rejected due to `TECHNICAL_SPEC.` file mismatch, preventing revision routing. The system could not locate or correctly identify the required specification document.
+*   **Root Cause:** Lack of adherence to file naming conventions or missing file validation. The submission process failed to ensure the correct `TECHNICAL_SPEC.md` was present and properly named.
+*   **Next Iteration:** Implement mandatory pre-submission checks for all required documents, enforcing exact file names (`TECHNICAL_SPEC.md`) and paths. Automate validation to prevent basic file errors.
 
 
 ### Iteration 2, Phase 1
-**QA REJECTION: FAILURE LESSON**
-
-*   **Core Deliverable Absent:** Project submitted without the fundamental "Game Code File," a critical scope misalignment. QA process failed to identify this primary omission.
-*   **Root Cause: Definition of Done & QA Protocol Failure:** No explicit "Definition of Done" checklist or pre-QA gate ensured core deliverables were present. QA focused on secondary aspects, missing the primary requirement.
-*   **Next Iteration: Mandatory Pre-QA Gate & DoD Enforcement:** Implement a mandatory pre-QA checklist requiring explicit verification of all core deliverables (e.g., "Game Code File present and runnable") before formal QA. QA must validate against a clear, agreed-upon Definition of Done.
+*   **Specific Failure:** `TECHNICAL_SPEC.md` was mismatched or missing, leading to a "Revision Routing" QA rejection. The delivered output did not align with the expected foundational specification.
+*   **Root Cause:** Absence of a validated, single source of truth for technical requirements and insufficient pre-development verification of core specification documents.
+*   **Next Iteration:** Finalize and lock `TECHNICAL_SPEC.md` *before* any development. Implement a mandatory pre-QA checklist to confirm all foundational specs are present and correctly implemented.
 
 
 ### Iteration 3, Phase 1
-**QA REJECTION: FAILURE LESSON**
+**QA Rejected — Revision Routing**
 
-*   **Specific Failure:** Core "Game Code File" was absent, and overall project deliverables fundamentally misaligned with defined scope. QA process failed to identify these critical omissions early.
-*   **Root Cause:** Inadequate upfront definition and verification of mandatory core deliverables. QA engagement occurred too late in the cycle, missing foundational requirements.
-*   **Next Iteration Action:** Implement mandatory "Core Deliverable Checklist" at project kickoff. Integrate phased QA checkpoints, verifying critical components and scope alignment *before* full iteration completion.
+*   **What specifically went wrong:** QA rejected iteration 3 due to "Revision Routing" and a "File Mismatch" in `TECHNICAL_SPEC.`. The delivered work did not align with the expected technical specification.
+*   **Root cause:** Incomplete or unapproved `TECHNICAL_SPEC.md` led to development diverging from requirements. Lack of a single, agreed-upon source of truth for technical implementation details.
+*   **What the team must do differently next iteration:** Finalize and obtain sign-off on `TECHNICAL_SPEC.md` *before* any development begins. Ensure all work strictly adheres to the approved specification, with clear version control and team alignment.
