@@ -22,7 +22,7 @@
 **Body:**
 Are fragmented systems and manual processes holding your business back? Most companies waste valuable time and resources trying to manage operations across disparate software. This leads to inefficiencies, missed opportunities, and stalled growth.
 
-My Business offers a powerful, all-in-one solution. Our integrated platform unifies your essential business functions – from project management and automated reporting to team collaboration – giving you a single source of truth. Reclaim hours each week, gain crystal-clear insights, and empower your team to achieve more.
+My Business offers a powerful, all-in-one solution. Our integrated platform unifies your essential business functions � from project management and automated reporting to team collaboration � giving you a single source of truth. Reclaim hours each week, gain crystal-clear insights, and empower your team to achieve more.
 
 Transform your workflow and accelerate your success. Don't let outdated systems limit your potential. Join the smart businesses already thriving with My Business.
 
