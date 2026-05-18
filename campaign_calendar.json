@@ -1,894 +1,124 @@
 
 [
   {
-    "platform": "TikTok",
-    "text": "POV: You just need a quick laugh. Our games deliver! #InstantFun #QuickPlay",
-    "hashtags": "#CasualGaming #FunnyGames #TikTokGaming #QuickPlay",
-    "image_description": "A short, fast-paced gameplay clip showing a humorous in-game event.",
+    "platform": "LinkedIn",
+    "text": "Tired of tools that don't quite fit? We're building something new, and we want *your* input to shape it. Join our exclusive early access program and help us create a solution that truly solves your problems. Your feedback directly impacts our product roadmap.",
+    "hashtags": "#EarlyAccess #ProductDevelopment #BetaProgram #Innovation #Feedback",
+    "image_description": "Graphic: 'Shape the Future' with product mock-up",
     "scheduled_date": "2026-05-17",
-    "scheduled_time": "14:00",
-    "post_type": "video"
+    "scheduled_time": "09:00 AM PST",
+    "post_type": "Early Access Promotion",
+    "expected_kpi_impact": "Increase early access sign-ups",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "Instagram",
-    "text": "Unwind with a smile! Our games are your perfect escape. What's your favorite way to de-stress? #LightheartedEscape #GamingCommunity",
-    "hashtags": "#CasualGaming #MobileGames #RelaxAndPlay #GoodVibesGaming",
-    "image_description": "A visually appealing screenshot from a game with a calming color palette.",
+    "platform": "Twitter",
+    "text": "Want to shape the next big thing? Join our early access program! Give feedback, influence features, and get exclusive access. Limited spots! #EarlyAccess #Beta #ProductLaunch #FeedbackWelcome",
+    "hashtags": "#EarlyAccess #Beta #ProductLaunch #FeedbackWelcome",
+    "image_description": "Graphic: 'Be a Pioneer' with product icon",
     "scheduled_date": "2026-05-17",
-    "scheduled_time": "10:00",
-    "post_type": "image"
+    "scheduled_time": "11:00 AM PST",
+    "post_type": "Early Access Promotion",
+    "expected_kpi_impact": "Increase early access sign-ups",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "Twitter/X",
-    "text": "New high score alert! Can you beat this? Share your best scores below! #ChallengeAccepted #GamerLife",
-    "hashtags": "#CasualGaming #GamingCommunity #ChallengeAccepted #HighScores",
-    "image_description": "A GIF of a game's high score screen with a celebratory animation.",
+    "platform": "Facebook",
+    "text": "We're on a mission to build a product that genuinely helps you. But we can't do it without you! Join our early access program, test our platform, and share your thoughts. Your voice is crucial. Link in bio to apply!",
+    "hashtags": "#EarlyAccessProgram #CommunityBuilding #ProductFeedback #InnovationLab",
+    "image_description": "Graphic: 'Your Voice Matters' with community imagery",
     "scheduled_date": "2026-05-17",
-    "scheduled_time": "16:00",
-    "post_type": "gif"
+    "scheduled_time": "10:00 AM PST",
+    "post_type": "Early Access Promotion",
+    "expected_kpi_impact": "Increase early access sign-ups",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "YouTube",
-    "text": "Dive into the world of My Business! Our latest game trailer is LIVE. Get ready for instant fun! #NewGame #GameTrailer",
-    "hashtags": "#IndieGame #Gaming #NewGame #GameTrailer",
-    "image_description": "Thumbnail for a game trailer video.",
+    "platform": "Email",
+    "text": "Welcome to [Your Product Name] Early Access! Your Journey Starts Now.",
+    "hashtags": "",
+    "image_description": "Email banner: 'Welcome to Early Access'",
     "scheduled_date": "2026-05-17",
-    "scheduled_time": "18:00",
-    "post_type": "video"
+    "scheduled_time": "01:00 PM PST",
+    "post_type": "Early Access Welcome Email",
+    "expected_kpi_impact": "High open rate, click-through to login",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "TikTok",
-    "text": "That moment when you nail the perfect move! #GamingMoments #Satisfying",
-    "hashtags": "#CasualGaming #GamingMoments #Satisfying #TikTokGaming",
-    "image_description": "A short gameplay clip showing a successful and satisfying in-game action.",
-    "scheduled_date": "2026-05-18",
-    "scheduled_time": "12:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Behind the scenes! Our artists bringing characters to life. Which one's your favorite? #GameDev #ArtOfGaming",
-    "hashtags": "#GameDev #IndieGame #ArtOfGaming #BehindTheScenes",
-    "image_description": "A carousel of images showing concept art and character development.",
-    "scheduled_date": "2026-05-18",
-    "scheduled_time": "15:00",
-    "post_type": "carousel"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "Quick poll: What's your go-to game genre for a quick break? #GamingPoll #QuickPlay",
-    "hashtags": "#GamingPoll #CasualGaming #QuickPlay #GamerLife",
-    "image_description": "A simple graphic with a poll question.",
-    "scheduled_date": "2026-05-18",
-    "scheduled_time": "11:00",
-    "post_type": "poll"
-  },
-  {
-    "platform": "TikTok",
-    "text": "Can you beat this challenge? Show us your skills! #ChallengeAccepted #GamingChallenge",
-    "hashtags": "#CasualGaming #ChallengeAccepted #GamingChallenge #TikTokGaming",
-    "image_description": "A short video demonstrating a difficult in-game challenge.",
+    "platform": "LinkedIn",
+    "text": "Imagine a tool built *by* users, *for* users. That's our vision. We're inviting a select group of professionals to test our upcoming platform and provide critical insights. This isn't just early access; it's co-creation. Apply now to be a part of it.",
+    "hashtags": "#CoCreation #UserCentric #FutureOfWork #TechInnovation #JoinUs",
+    "image_description": "Graphic: 'Co-Create with Us'",
     "scheduled_date": "2026-05-19",
-    "scheduled_time": "17:00",
-    "post_type": "video"
+    "scheduled_time": "01:00 PM PST",
+    "post_type": "Early Access Promotion",
+    "expected_kpi_impact": "Increase early access sign-ups",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "Instagram",
-    "text": "Flashback to classic arcade vibes! Our games are packed with nostalgic charm. #RetroGaming #Nostalgia",
-    "hashtags": "#RetroGaming #ArcadeGame #Nostalgia #Gaming",
-    "image_description": "An image with a retro-style game graphic.",
-    "scheduled_date": "2026-05-19",
-    "scheduled_time": "13:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's the funniest thing that's happened to you in a game recently? Share your stories! #FunnyGames #GamingStories",
-    "hashtags": "#FunnyGames #GamingCommunity #GamingStories #ShareTheFun",
-    "image_description": "A humorous GIF related to gaming.",
-    "scheduled_date": "2026-05-19",
-    "scheduled_time": "09:00",
-    "post_type": "gif"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When the game gets intense! #GamingReactions #EpicFail",
-    "hashtags": "#CasualGaming #GamingReactions #EpicFail #TikTokGaming",
-    "image_description": "A short video of a player's exaggerated reaction to an in-game event.",
+    "platform": "Twitter",
+    "text": "Your ideas, our innovation. Be a pioneer in our early access program and help us build a solution that truly matters. Sign up today! #BuildTogether #TechCommunity #EarlyAdopter",
+    "hashtags": "#BuildTogether #TechCommunity #EarlyAdopter",
+    "image_description": "Graphic: 'Your Ideas, Our Innovation'",
     "scheduled_date": "2026-05-20",
-    "scheduled_time": "15:00",
-    "post_type": "video"
+    "scheduled_time": "03:00 PM PST",
+    "post_type": "Early Access Promotion",
+    "expected_kpi_impact": "Increase early access sign-ups",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "Instagram",
-    "text": "Meet the team! We're the faces behind your favorite casual games. Ask us anything in the comments! #MeetTheTeam #GameDevLife",
-    "hashtags": "#GameDev #IndieGame #MeetTheTeam #GamingCommunity",
-    "image_description": "A photo of the game development team.",
+    "platform": "Email",
+    "text": "Ready to Dive In? Your [Your Product Name] Early Access Guide.",
+    "hashtags": "",
+    "image_description": "Email banner: 'Your Guide to Early Access'",
     "scheduled_date": "2026-05-20",
-    "scheduled_time": "11:00",
-    "post_type": "image"
+    "scheduled_time": "09:00 AM PST",
+    "post_type": "Early Access Onboarding Email",
+    "expected_kpi_impact": "High open rate, click-through to key features",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "Twitter/X",
-    "text": "Game update alert! Check out the latest features and improvements. Link in bio! #GameUpdate #NewFeatures",
-    "hashtags": "#GameUpdate #GamingNews #NewFeatures #PlayNow",
-    "image_description": "A graphic announcing a game update.",
-    "scheduled_date": "2026-05-20",
-    "scheduled_time": "14:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "How to master [Game Name] in 5 easy steps! Our new tutorial is out now. #GameTutorial #TipsAndTricks",
-    "hashtags": "#GamingTips #GameGuide #Tutorial #PlayNow",
-    "image_description": "Thumbnail for a game tutorial video.",
-    "scheduled_date": "2026-05-20",
-    "scheduled_time": "18:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is seriously addictive! Can't stop playing. #AddictiveGames #MustPlay",
-    "hashtags": "#CasualGaming #AddictiveGames #MustPlay #TikTokGaming",
-    "image_description": "A short, engaging gameplay loop highlighting the addictive nature of the game.",
-    "scheduled_date": "2026-05-21",
-    "scheduled_time": "13:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Poll time! What's your favorite game mode? Swipe up to vote in our story! #GamingPoll #Interactive",
-    "hashtags": "#CasualGaming #GamingCommunity #Poll #InteractiveContent",
-    "image_description": "An Instagram story graphic with a poll question.",
-    "scheduled_date": "2026-05-21",
-    "scheduled_time": "16:00",
-    "post_type": "story"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite My Business game? Let us know why! #MyBusinessGames #FanFavorite",
-    "hashtags": "#CasualGaming #GamingCommunity #FanFavorite #PlayNow",
-    "image_description": "A graphic asking for user feedback.",
-    "scheduled_date": "2026-05-21",
-    "scheduled_time": "10:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you think you've won, but the game has other plans... #GamingFails #Unexpected",
-    "hashtags": "#CasualGaming #GamingFails #Unexpected #TikTokGaming",
-    "image_description": "A short, humorous gameplay clip showing an unexpected loss.",
+    "platform": "Facebook",
+    "text": "Get a sneak peek and a say in what's next! Our early access program is now open. Help us refine our product and ensure it meets your needs perfectly. Apply through the link in our profile!",
+    "hashtags": "#BetaTesting #UserExperience #NewProduct #GetInvolved",
+    "image_description": "Graphic: 'Get Involved, Shape the Product'",
     "scheduled_date": "2026-05-22",
-    "scheduled_time": "11:00",
-    "post_type": "video"
+    "scheduled_time": "12:00 PM PST",
+    "post_type": "Early Access Promotion",
+    "expected_kpi_impact": "Increase early access sign-ups",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "Instagram",
-    "text": "Art spotlight! Check out the amazing details in our game environments. #GameArt #Visuals",
-    "hashtags": "#GameArt #IndieGame #Visuals #Gaming",
-    "image_description": "A high-resolution image of game environment art.",
-    "scheduled_date": "2026-05-22",
-    "scheduled_time": "14:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "Weekend gaming plans? We've got you covered! #WeekendVibes #GamingTime",
-    "hashtags": "#CasualGaming #WeekendVibes #GamingTime #PlayNow",
-    "image_description": "A graphic promoting weekend gaming.",
-    "scheduled_date": "2026-05-22",
-    "scheduled_time": "17:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This sound + our game = pure magic! Try it yourself. #TrendingSound #GameMagic",
-    "hashtags": "#CasualGaming #TrendingSound #GameMagic #TikTokGaming",
-    "image_description": "A short gameplay clip synchronized with a trending TikTok sound.",
-    "scheduled_date": "2026-05-23",
-    "scheduled_time": "16:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Your daily dose of fun is just a tap away! Link in bio to play. #DailyGaming #InstantFun",
-    "hashtags": "#CasualGaming #MobileGames #DailyGaming #PlayNow",
-    "image_description": "A vibrant image with a clear call to action to play the game.",
-    "scheduled_date": "2026-05-23",
-    "scheduled_time": "12:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite power-up in any game? Mine's [mention a generic power-up]! #GamingTalk #PowerUp",
-    "hashtags": "#GamingTalk #CasualGaming #PowerUp #GamerLife",
-    "image_description": "A graphic with a question about power-ups.",
-    "scheduled_date": "2026-05-23",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "Community Highlights: Best moments from our players! You guys are awesome! #CommunityLove #GamingHighlights",
-    "hashtags": "#GamingCommunity #Highlights #FanLove #Gaming",
-    "image_description": "Thumbnail for a community highlight reel video.",
+    "platform": "Email",
+    "text": "Quick Question: How Are You Liking [Your Product Name]?",
+    "hashtags": "",
+    "image_description": "Email banner: 'We Value Your Feedback'",
     "scheduled_date": "2026-05-24",
-    "scheduled_time": "18:00",
-    "post_type": "video"
+    "scheduled_time": "10:00 AM PST",
+    "post_type": "Early Access Feedback Request Email",
+    "expected_kpi_impact": "Increase feedback survey completion rate",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "TikTok",
-    "text": "When you introduce your friend to our game and they get hooked! #GamingFriends #Addicted",
-    "hashtags": "#CasualGaming #GamingFriends #Addicted #TikTokGaming",
-    "image_description": "A humorous video depicting someone getting addicted to a game.",
-    "scheduled_date": "2026-05-24",
-    "scheduled_time": "14:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Which game character are you today? Comment below! #CharacterVibes #GamingPersonality",
-    "hashtags": "#GameCharacters #GamingFun #PersonalityQuiz #Gaming",
-    "image_description": "A carousel of different game characters with personality traits.",
-    "scheduled_date": "2026-05-24",
-    "scheduled_time": "10:00",
-    "post_type": "carousel"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "Monday blues? Not with our games! Start your week with a smile. #MondayMotivation #PlayNow",
-    "hashtags": "#CasualGaming #MondayMotivation #PlayNow #GoodVibes",
-    "image_description": "A cheerful graphic with a game character.",
-    "scheduled_date": "2026-05-24",
-    "scheduled_time": "08:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is my new obsession. Seriously, try it! #Obsessed #NewGame",
-    "hashtags": "#CasualGaming #Obsessed #NewGame #TikTokGaming",
-    "image_description": "A short, enthusiastic video review of the game.",
-    "scheduled_date": "2026-05-25",
-    "scheduled_time": "12:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Weekend challenge! Can you beat our developer's high score? Prove it! #WeekendChallenge #HighScores",
-    "hashtags": "#CasualGaming #ChallengeAccepted #HighScores #Gaming",
-    "image_description": "An image announcing a weekend high score challenge.",
-    "scheduled_date": "2026-05-25",
-    "scheduled_time": "15:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite way to relax after a long day? Mine involves a good game! #RelaxAndPlay #SelfCare",
-    "hashtags": "#CasualGaming #RelaxAndPlay #SelfCare #GamingTime",
-    "image_description": "A calming graphic related to relaxation and gaming.",
-    "scheduled_date": "2026-05-25",
-    "scheduled_time": "19:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you unlock a new achievement! Pure satisfaction. #AchievementUnlocked #GamingGoals",
-    "hashtags": "#CasualGaming #AchievementUnlocked #GamingGoals #TikTokGaming",
-    "image_description": "A short video celebrating an in-game achievement.",
-    "scheduled_date": "2026-05-26",
-    "scheduled_time": "17:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Behind the scenes: Early game concepts! Which one would you have loved to play? #GameConcepts #Throwback",
-    "hashtags": "#GameDev #IndieGame #GameConcepts #Throwback",
-    "image_description": "A carousel of early concept art and game ideas.",
-    "scheduled_date": "2026-05-26",
-    "scheduled_time": "13:00",
-    "post_type": "carousel"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's the one game you can always go back to? For us, it's [mention a classic game genre]! #TimelessGames #GamingNostalgia",
-    "hashtags": "#CasualGaming #TimelessGames #GamingNostalgia #RetroGaming",
-    "image_description": "A graphic with a question about timeless games.",
-    "scheduled_date": "2026-05-26",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is a total brain teaser! Can you solve it? #BrainTeaser #PuzzleGame",
-    "hashtags": "#CasualGaming #BrainTeaser #PuzzleGame #TikTokGaming",
-    "image_description": "A short video showcasing a puzzle element of a game.",
-    "scheduled_date": "2026-05-27",
-    "scheduled_time": "15:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Your feedback matters! What features would you love to see in our next game? #PlayerFeedback #GameDev",
-    "hashtags": "#GameDev #GamingCommunity #PlayerFeedback #FutureGaming",
-    "image_description": "An Instagram story with a question sticker for feedback.",
-    "scheduled_date": "2026-05-27",
-    "scheduled_time": "11:00",
-    "post_type": "story"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming snack? Fueling up for some serious play! #GamingSnacks #GamerFuel",
-    "hashtags": "#GamingSnacks #GamerLife #GamingCommunity #FunFacts",
-    "image_description": "A humorous graphic about gaming snacks.",
-    "scheduled_date": "2026-05-27",
-    "scheduled_time": "14:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "Developer Diary: The challenges and triumphs of creating [Game Name]! #GameDevDiary #MakingOf",
-    "hashtags": "#GameDev #IndieGame #DeveloperDiary #BehindTheScenes",
-    "image_description": "Thumbnail for a developer diary video.",
-    "scheduled_date": "2026-05-27",
-    "scheduled_time": "18:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you finally beat that impossible level! #VictoryDance #GamingWins",
-    "hashtags": "#CasualGaming #VictoryDance #GamingWins #TikTokGaming",
-    "image_description": "A short video celebrating a difficult level completion.",
+    "platform": "Email",
+    "text": "Exciting Update: [Feature Name] Just Dropped in Early Access!",
+    "hashtags": "",
+    "image_description": "Email banner: 'New Feature Alert!'",
     "scheduled_date": "2026-05-28",
-    "scheduled_time": "13:00",
-    "post_type": "video"
+    "scheduled_time": "02:00 PM PST",
+    "post_type": "Early Access Feature Update Email",
+    "expected_kpi_impact": "Increase feature usage, drive engagement",
+    "actual_kpi_result": "TBD"
   },
   {
-    "platform": "Instagram",
-    "text": "Guess the game! Can you identify this screenshot from one of our titles? #GuessTheGame #GamingQuiz",
-    "hashtags": "#CasualGaming #GamingQuiz #GuessTheGame #FunGames",
-    "image_description": "A cropped or obscured screenshot from one of the games.",
-    "scheduled_date": "2026-05-28",
-    "scheduled_time": "16:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming memory? Share a moment that made you smile! #GamingMemories #GoodVibes",
-    "hashtags": "#GamingMemories #GamingCommunity #GoodVibes #ShareTheFun",
-    "image_description": "A nostalgic graphic about gaming memories.",
-    "scheduled_date": "2026-05-28",
-    "scheduled_time": "10:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is pure joy! Instant mood booster. #MoodBooster #HappyGaming",
-    "hashtags": "#CasualGaming #MoodBooster #HappyGaming #TikTokGaming",
-    "image_description": "A short, cheerful gameplay clip.",
-    "scheduled_date": "2026-05-29",
-    "scheduled_time": "11:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "New game coming soon! Get a sneak peek in our stories. #ComingSoon #NewRelease",
-    "hashtags": "#IndieGame #NewGame #ComingSoon #SneakPeek",
-    "image_description": "An Instagram story with a 'swipe up' for a sneak peek of a new game.",
-    "scheduled_date": "2026-05-29",
-    "scheduled_time": "14:00",
-    "post_type": "story"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite thing about casual games? Simplicity, fun, or quick breaks? #CasualGaming #WhyWePlay",
-    "hashtags": "#CasualGaming #GamingCommunity #WhyWePlay #FunGames",
-    "image_description": "A graphic with a question about casual gaming preferences.",
-    "scheduled_date": "2026-05-29",
-    "scheduled_time": "17:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you find that perfect game to chill with. #ChillGaming #Relaxation",
-    "hashtags": "#CasualGaming #ChillGaming #Relaxation #TikTokGaming",
-    "image_description": "A short, calming gameplay clip.",
-    "scheduled_date": "2026-05-30",
-    "scheduled_time": "16:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Our top 3 tips for mastering [Game Name]! Check out the carousel. #GameTips #ProTips",
-    "hashtags": "#CasualGaming #GameTips #ProTips #GamingGuide",
-    "image_description": "A carousel post with 3 images, each detailing a game tip.",
-    "scheduled_date": "2026-05-30",
-    "scheduled_time": "12:00",
-    "post_type": "carousel"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite game soundtrack? Music makes the game! #GameSoundtrack #GamingMusic",
-    "hashtags": "#GamingMusic #GameSoundtrack #GamingCommunity #Music",
-    "image_description": "A graphic with a question about game soundtracks.",
-    "scheduled_date": "2026-05-30",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "Let's Play: [Game Name] - First Impressions! Join us for some laughs. #LetsPlay #FirstImpressions",
-    "hashtags": "#Gaming #LetsPlay #FirstImpressions #FunnyGaming",
-    "image_description": "Thumbnail for a 'Let's Play' video.",
-    "scheduled_date": "2026-05-31",
-    "scheduled_time": "18:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is a hidden gem! You NEED to play it. #HiddenGem #UnderratedGame",
-    "hashtags": "#CasualGaming #HiddenGem #UnderratedGame #TikTokGaming",
-    "image_description": "A short video highlighting an overlooked but excellent game.",
-    "scheduled_date": "2026-05-31",
-    "scheduled_time": "14:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Happy Sunday! What games are you enjoying today? #SundayGaming #WeekendVibes",
-    "hashtags": "#CasualGaming #SundayGaming #WeekendVibes #GamingTime",
-    "image_description": "A cheerful image related to Sunday gaming.",
-    "scheduled_date": "2026-05-31",
-    "scheduled_time": "10:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite retro game? Share your nostalgic picks! #RetroGaming #Nostalgia",
-    "hashtags": "#RetroGaming #Nostalgia #ClassicGames #GamingCommunity",
-    "image_description": "A graphic with a question about retro games.",
-    "scheduled_date": "2026-05-31",
-    "scheduled_time": "16:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you try to be serious but the game is too funny. #GamingHumor #LaughOutLoud",
-    "hashtags": "#CasualGaming #GamingHumor #LaughOutLoud #TikTokGaming",
-    "image_description": "A short, humorous video of a player reacting to a funny in-game moment.",
-    "scheduled_date": "2026-06-01",
-    "scheduled_time": "12:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "New week, new games to discover! What's on your playlist? #NewWeekNewGames #GamingPlaylist",
-    "hashtags": "#CasualGaming #NewGames #GamingPlaylist #PlayNow",
-    "image_description": "A graphic encouraging discovery of new games.",
-    "scheduled_date": "2026-06-01",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite thing about My Business games? We love hearing from you! #MyBusinessGames #PlayerLove",
-    "hashtags": "#CasualGaming #PlayerLove #GamingCommunity #Feedback",
-    "image_description": "A graphic asking for player feedback.",
-    "scheduled_date": "2026-06-01",
-    "scheduled_time": "15:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is surprisingly challenging! Can you beat my score? #ChallengeAccepted #HardButFun",
-    "hashtags": "#CasualGaming #ChallengeAccepted #HardButFun #TikTokGaming",
-    "image_description": "A short video showcasing a challenging but fun aspect of the game.",
-    "scheduled_date": "2026-06-02",
-    "scheduled_time": "17:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Behind the scenes: Our sound designers creating immersive audio! #GameAudio #SoundDesign",
-    "hashtags": "#GameDev #SoundDesign #GameAudio #BehindTheScenes",
-    "image_description": "A carousel of images showing the sound design process.",
-    "scheduled_date": "2026-06-02",
-    "scheduled_time": "13:00",
-    "post_type": "carousel"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite in-game event or holiday celebration? #GamingEvents #HolidayGaming",
-    "hashtags": "#GamingEvents #GamingCommunity #HolidayGaming #FunFacts",
-    "image_description": "A graphic with a question about in-game events.",
-    "scheduled_date": "2026-06-02",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you find a game that just clicks. Pure gaming bliss! #GamingBliss #PerfectGame",
-    "hashtags": "#CasualGaming #GamingBliss #PerfectGame #TikTokGaming",
-    "image_description": "A short video showing a player enjoying a game.",
-    "scheduled_date": "2026-06-03",
-    "scheduled_time": "15:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Your daily dose of fun, delivered! Link in bio to download and play. #DailyFun #PlayNow",
-    "hashtags": "#CasualGaming #MobileGames #DailyFun #PlayNow",
-    "image_description": "A vibrant image with a clear call to action to download the game.",
-    "scheduled_date": "2026-06-03",
-    "scheduled_time": "11:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming platform? Mobile, PC, or console? #GamingPlatform #GamerLife",
-    "hashtags": "#GamingPlatform #CasualGaming #GamerLife #TechTalk",
-    "image_description": "A graphic with a question about gaming platforms.",
-    "scheduled_date": "2026-06-03",
-    "scheduled_time": "14:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "Top 5 Reasons You'll Love [Game Name]! Find out why everyone's playing. #Top5Games #MustPlay",
-    "hashtags": "#Gaming #Top5Games #MustPlay #GameReview",
-    "image_description": "Thumbnail for a 'Top 5 Reasons' video.",
-    "scheduled_date": "2026-06-03",
-    "scheduled_time": "18:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is a total time-waster (in the best way possible)! #TimeWaster #Addictive",
-    "hashtags": "#CasualGaming #TimeWaster #Addictive #TikTokGaming",
-    "image_description": "A short, humorous video about losing track of time while playing.",
-    "scheduled_date": "2026-06-04",
-    "scheduled_time": "13:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Fan art Friday! Check out this amazing creation from our community. #FanArt #CommunityLove",
-    "hashtags": "#GameArt #FanArt #GamingCommunity #Creative",
-    "image_description": "An image of fan-created artwork inspired by the game.",
-    "scheduled_date": "2026-06-04",
-    "scheduled_time": "16:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming quote? Share some wisdom! #GamingQuotes #Inspiration",
-    "hashtags": "#GamingQuotes #GamingCommunity #Inspiration #Wisdom",
-    "image_description": "A graphic with a question about gaming quotes.",
-    "scheduled_date": "2026-06-04",
-    "scheduled_time": "10:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you try to explain the game to your non-gamer friend. #GamerLife #Relatable",
-    "hashtags": "#CasualGaming #GamerLife #Relatable #TikTokGaming",
-    "image_description": "A short, humorous video depicting a gamer trying to explain a game to a non-gamer.",
-    "scheduled_date": "2026-06-05",
-    "scheduled_time": "11:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Weekend vibes are here! What are your gaming plans? #WeekendGaming #GoodVibes",
-    "hashtags": "#CasualGaming #WeekendVibes #GamingTime #PlayNow",
-    "image_description": "A cheerful graphic promoting weekend gaming.",
-    "scheduled_date": "2026-06-05",
-    "scheduled_time": "14:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite thing to do in a game besides playing the main objective? #SideQuests #GamingFreedom",
-    "hashtags": "#GamingFreedom #SideQuests #GamingCommunity #OpenWorld",
-    "image_description": "A graphic with a question about side activities in games.",
-    "scheduled_date": "2026-06-05",
-    "scheduled_time": "17:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is a total stress-buster! Instant calm. #StressRelief #CalmGaming",
-    "hashtags": "#CasualGaming #StressRelief #CalmGaming #TikTokGaming",
-    "image_description": "A short, calming gameplay clip with relaxing music.",
-    "scheduled_date": "2026-06-06",
-    "scheduled_time": "16:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "New update alert! Check out the latest features and improvements. Link in bio! #GameUpdate #NewFeatures",
-    "hashtags": "#GameUpdate #GamingNews #NewFeatures #PlayNow",
-    "image_description": "A graphic announcing a game update.",
-    "scheduled_date": "2026-06-06",
-    "scheduled_time": "12:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming genre? Let us know! #GamingGenre #GamerLife",
-    "hashtags": "#GamingGenre #CasualGaming #GamerLife #GamingCommunity",
-    "image_description": "A graphic with a question about gaming genres.",
-    "scheduled_date": "2026-06-06",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "Top 10 Funniest Moments in [Game Name]! Prepare to laugh. #FunnyMoments #GamingComedy",
-    "hashtags": "#GamingComedy #FunnyGaming #Highlights #LaughOutLoud",
-    "image_description": "Thumbnail for a 'Funny Moments' compilation video.",
-    "scheduled_date": "2026-06-07",
-    "scheduled_time": "18:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you get that perfect combo! So satisfying. #PerfectCombo #GamingSkills",
-    "hashtags": "#CasualGaming #PerfectCombo #GamingSkills #TikTokGaming",
-    "image_description": "A short video showcasing a perfect in-game combo.",
-    "scheduled_date": "2026-06-07",
-    "scheduled_time": "14:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Sunday Funday! What games are making you smile today? #SundayFunday #GamingJoy",
-    "hashtags": "#CasualGaming #SundayFunday #GamingJoy #PlayNow",
-    "image_description": "A cheerful graphic for Sunday gaming.",
-    "scheduled_date": "2026-06-07",
-    "scheduled_time": "10:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite thing about indie games? The creativity, unique stories, or something else? #IndieGameDev #SupportIndie",
-    "hashtags": "#IndieGame #GameDev #SupportIndie #GamingCommunity",
-    "image_description": "A graphic with a question about indie games.",
-    "scheduled_date": "2026-06-07",
-    "scheduled_time": "16:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is my happy place. Pure escapism! #HappyPlace #GamingEscape",
-    "hashtags": "#CasualGaming #HappyPlace #GamingEscape #TikTokGaming",
-    "image_description": "A short, serene gameplay clip.",
-    "scheduled_date": "2026-06-08",
-    "scheduled_time": "12:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "New week, new adventures! What are you looking forward to this week? #NewWeek #AdventureTime",
-    "hashtags": "#GamingAdventure #NewWeek #Motivation #GoodVibes",
-    "image_description": "A graphic with an adventurous game theme.",
-    "scheduled_date": "2026-06-08",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming snack? Fueling up for some serious play! #GamingSnacks #GamerFuel",
-    "hashtags": "#GamingSnacks #GamerLife #GamingCommunity #FunFacts",
-    "image_description": "A humorous graphic about gaming snacks.",
-    "scheduled_date": "2026-06-08",
-    "scheduled_time": "15:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you try to be serious but the game is too funny. #GamingHumor #LaughOutLoud",
-    "hashtags": "#CasualGaming #GamingHumor #LaughOutLoud #TikTokGaming",
-    "image_description": "A short, humorous video of a player reacting to a funny in-game moment.",
-    "scheduled_date": "2026-06-09",
-    "scheduled_time": "17:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Behind the scenes: Our sound designers creating immersive audio! #GameAudio #SoundDesign",
-    "hashtags": "#GameDev #SoundDesign #GameAudio #BehindTheScenes",
-    "image_description": "A carousel of images showing the sound design process.",
-    "scheduled_date": "2026-06-09",
-    "scheduled_time": "13:00",
-    "post_type": "carousel"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite in-game event or holiday celebration? #GamingEvents #HolidayGaming",
-    "hashtags": "#GamingEvents #GamingCommunity #HolidayGaming #FunFacts",
-    "image_description": "A graphic with a question about in-game events.",
-    "scheduled_date": "2026-06-09",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is a total brain teaser! Can you solve it? #BrainTeaser #PuzzleGame",
-    "hashtags": "#CasualGaming #BrainTeaser #PuzzleGame #TikTokGaming",
-    "image_description": "A short video showcasing a puzzle element of a game.",
+    "platform": "Email",
+    "text": "Last Call: Help Us Shape [Your Product Name] Before Launch!",
+    "hashtags": "",
+    "image_description": "Email banner: 'Final Call for Feedback'",
     "scheduled_date": "2026-06-10",
-    "scheduled_time": "15:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Your feedback matters! What features would you love to see in our next game? #PlayerFeedback #GameDev",
-    "hashtags": "#GameDev #GamingCommunity #PlayerFeedback #FutureGaming",
-    "image_description": "An Instagram story with a question sticker for feedback.",
-    "scheduled_date": "2026-06-10",
-    "scheduled_time": "11:00",
-    "post_type": "story"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming platform? Mobile, PC, or console? #GamingPlatform #GamerLife",
-    "hashtags": "#GamingPlatform #CasualGaming #GamerLife #TechTalk",
-    "image_description": "A graphic with a question about gaming platforms.",
-    "scheduled_date": "2026-06-10",
-    "scheduled_time": "14:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "Developer Diary: The challenges and triumphs of creating [Game Name]! #GameDevDiary #MakingOf",
-    "hashtags": "#GameDev #IndieGame #DeveloperDiary #BehindTheScenes",
-    "image_description": "Thumbnail for a developer diary video.",
-    "scheduled_date": "2026-06-10",
-    "scheduled_time": "18:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you finally beat that impossible level! #VictoryDance #GamingWins",
-    "hashtags": "#CasualGaming #VictoryDance #GamingWins #TikTokGaming",
-    "image_description": "A short video celebrating a difficult level completion.",
-    "scheduled_date": "2026-06-11",
-    "scheduled_time": "13:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Guess the game! Can you identify this screenshot from one of our titles? #GuessTheGame #GamingQuiz",
-    "hashtags": "#CasualGaming #GamingQuiz #GuessTheGame #FunGames",
-    "image_description": "A cropped or obscured screenshot from one of the games.",
-    "scheduled_date": "2026-06-11",
-    "scheduled_time": "16:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite gaming memory? Share a moment that made you smile! #GamingMemories #GoodVibes",
-    "hashtags": "#GamingMemories #GamingCommunity #GoodVibes #ShareTheFun",
-    "image_description": "A nostalgic graphic about gaming memories.",
-    "scheduled_date": "2026-06-11",
-    "scheduled_time": "10:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is pure joy! Instant mood booster. #MoodBooster #HappyGaming",
-    "hashtags": "#CasualGaming #MoodBooster #HappyGaming #TikTokGaming",
-    "image_description": "A short, cheerful gameplay clip.",
-    "scheduled_date": "2026-06-12",
-    "scheduled_time": "11:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "New game coming soon! Get a sneak peek in our stories. #ComingSoon #NewRelease",
-    "hashtags": "#IndieGame #NewGame #ComingSoon #SneakPeek",
-    "image_description": "An Instagram story with a 'swipe up' for a sneak peek of a new game.",
-    "scheduled_date": "2026-06-12",
-    "scheduled_time": "14:00",
-    "post_type": "story"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite thing about casual games? Simplicity, fun, or quick breaks? #CasualGaming #WhyWePlay",
-    "hashtags": "#CasualGaming #GamingCommunity #WhyWePlay #FunGames",
-    "image_description": "A graphic with a question about casual gaming preferences.",
-    "scheduled_date": "2026-06-12",
-    "scheduled_time": "17:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you find that perfect game to chill with. #ChillGaming #Relaxation",
-    "hashtags": "#CasualGaming #ChillGaming #Relaxation #TikTokGaming",
-    "image_description": "A short, calming gameplay clip.",
-    "scheduled_date": "2026-06-13",
-    "scheduled_time": "16:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Our top 3 tips for mastering [Game Name]! Check out the carousel. #GameTips #ProTips",
-    "hashtags": "#CasualGaming #GameTips #ProTips #GamingGuide",
-    "image_description": "A carousel post with 3 images, each detailing a game tip.",
-    "scheduled_date": "2026-06-13",
-    "scheduled_time": "12:00",
-    "post_type": "carousel"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite game soundtrack? Music makes the game! #GameSoundtrack #GamingMusic",
-    "hashtags": "#GamingMusic #GameSoundtrack #GamingCommunity #Music",
-    "image_description": "A graphic with a question about game soundtracks.",
-    "scheduled_date": "2026-06-13",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "YouTube",
-    "text": "Let's Play: [Game Name] - First Impressions! Join us for some laughs. #LetsPlay #FirstImpressions",
-    "hashtags": "#Gaming #LetsPlay #FirstImpressions #FunnyGaming",
-    "image_description": "Thumbnail for a 'Let's Play' video.",
-    "scheduled_date": "2026-06-14",
-    "scheduled_time": "18:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "TikTok",
-    "text": "This game is a hidden gem! You NEED to play it. #HiddenGem #UnderratedGame",
-    "hashtags": "#CasualGaming #HiddenGem #UnderratedGame #TikTokGaming",
-    "image_description": "A short video highlighting an overlooked but excellent game.",
-    "scheduled_date": "2026-06-14",
-    "scheduled_time": "14:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "Happy Sunday! What games are you enjoying today? #SundayGaming #WeekendVibes",
-    "hashtags": "#CasualGaming #SundayGaming #WeekendVibes #GamingTime",
-    "image_description": "A cheerful image related to Sunday gaming.",
-    "scheduled_date": "2026-06-14",
-    "scheduled_time": "10:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite retro game? Share your nostalgic picks! #RetroGaming #Nostalgia",
-    "hashtags": "#RetroGaming #Nostalgia #ClassicGames #GamingCommunity",
-    "image_description": "A graphic with a question about retro games.",
-    "scheduled_date": "2026-06-14",
-    "scheduled_time": "16:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "TikTok",
-    "text": "When you try to be serious but the game is too funny. #GamingHumor #LaughOutLoud",
-    "hashtags": "#CasualGaming #GamingHumor #LaughOutLoud #TikTokGaming",
-    "image_description": "A short, humorous video of a player reacting to a funny in-game moment.",
-    "scheduled_date": "2026-06-15",
-    "scheduled_time": "12:00",
-    "post_type": "video"
-  },
-  {
-    "platform": "Instagram",
-    "text": "New week, new games to discover! What's on your playlist? #NewWeekNewGames #GamingPlaylist",
-    "hashtags": "#CasualGaming #NewGames #GamingPlaylist #PlayNow",
-    "image_description": "A graphic encouraging discovery of new games.",
-    "scheduled_date": "2026-06-15",
-    "scheduled_time": "09:00",
-    "post_type": "image"
-  },
-  {
-    "platform": "Twitter/X",
-    "text": "What's your favorite thing about My Business games? We love hearing from you! #MyBusinessGames #PlayerLove",
-    "hashtags": "#CasualGaming #PlayerLove #GamingCommunity #Feedback",
-    "image_description": "A graphic asking for player feedback.",
-    "scheduled_date": "2026-06-15",
-    "scheduled_time": "15:00",
-    "post_type": "image"
+    "scheduled_time": "11:00 AM PST",
+    "post_type": "Early Access Final Feedback Email",
+    "expected_kpi_impact": "Increase final feedback form completion rate",
+    "actual_kpi_result": "TBD"
   }
 ]
