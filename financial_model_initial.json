@@ -1,0 +1,48 @@
+
+{
+  "model_name": "Initial Business Model",
+  "description": "Foundational financial model to establish KPIs and validate business assumptions. This model uses generic SaaS-like assumptions as a starting point due to an undefined business model.",
+  "assumptions": {
+    "starting_customers": {"value": 100, "unit": "customers", "source": "Assumption"},
+    "avg_revenue_per_customer_monthly": {"value": 50, "unit": "$", "source": "Assumption"},
+    "monthly_churn_rate": {"value": 0.05, "unit": "%", "source": "Assumption"},
+    "customer_acquisition_cost": {"value": 100, "unit": "$", "source": "Assumption"},
+    "gross_margin_percentage": {"value": 0.70, "unit": "%", "source": "Assumption"},
+    "monthly_operating_expenses": {"value": 2000, "unit": "$", "source": "Assumption"}
+  },
+  "base_case_monthly_financials": {
+    "customers_start_of_month": {"value": 100, "unit": "customers"},
+    "monthly_recurring_revenue": {"value": 5000, "unit": "$"},
+    "cost_of_goods_sold": {"value": 1500, "unit": "$"},
+    "gross_profit": {"value": 3500, "unit": "$"},
+    "operating_expenses": {"value": 2000, "unit": "$"},
+    "net_profit": {"value": 1500, "unit": "$"},
+    "ltv_per_customer": {"value": 700, "unit": "$"},
+    "ltv_to_cac_ratio": {"value": 7, "unit": "ratio"}
+  },
+  "sensitivity_analysis": {
+    "avg_revenue_per_customer_monthly": {
+      "bear_case_minus_20_percent": {
+        "new_arpc": 40,
+        "monthly_recurring_revenue": 4000,
+        "net_profit": 800
+      },
+      "bull_case_plus_20_percent": {
+        "new_arpc": 60,
+        "monthly_recurring_revenue": 6000,
+        "net_profit": 2200
+      }
+    }
+  },
+  "key_performance_indicators": [
+    {"name": "Monthly Recurring Revenue (MRR)", "target": "TBD", "current_value": 5000, "unit": "$"},
+    {"name": "Gross Profit Margin", "target": "TBD", "current_value": 0.70, "unit": "%"},
+    {"name": "Net Profit Margin", "target": "TBD", "current_value": 0.30, "unit": "%"},
+    {"name": "LTV:CAC Ratio", "target": "3:1 minimum", "current_value": 7, "unit": "ratio"}
+  ],
+  "top_3_risks": [
+    {"risk": "Undefined Business Model", "probability": 5, "impact": 5, "score": 25, "mitigation": "Define core product/service and target market."},
+    {"risk": "Lack of Validated Assumptions", "probability": 4, "impact": 4, "score": 16, "mitigation": "Conduct market research and customer interviews to validate ARPC, churn, and CAC."},
+    {"risk": "Cash Flow Timing", "probability": 3, "impact": 4, "score": 12, "mitigation": "Model cash flow scenarios once revenue streams are clearer."}
+  ]
+}
