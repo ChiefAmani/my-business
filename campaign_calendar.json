@@ -1,33 +1,192 @@
 
-{
-  "campaign_name": "My Business - Product Launch",
-  "posts": [
-    {
-      "platform": "twitter",
-      "text": "Exciting news! My Business is launching a new product soon. Stay tuned for updates!",
-      "hashtags": "#MyBusiness #ProductLaunch #Innovation",
-      "image": "product_launch_teaser.png",
-      "scheduled_date": "2026-05-17",
-      "scheduled_time": "09:00",
-      "post_type": "image"
-    },
-    {
-      "platform": "linkedin",
-      "text": "We're thrilled to announce an upcoming product launch at My Business. Get ready for a game-changer!",
-      "hashtags": "#MyBusiness #ProductDevelopment #BusinessGrowth",
-      "image": "linkedin_teaser.png",
-      "scheduled_date": "2026-05-17",
-      "scheduled_time": "10:00",
-      "post_type": "image"
-    },
-    {
-      "platform": "facebook",
-      "text": "Something big is coming from My Business! Follow us for exclusive sneak peeks and launch details.",
-      "hashtags": "#MyBusiness #NewProduct #ComingSoon",
-      "image": "facebook_teaser.png",
-      "scheduled_date": "2026-05-17",
-      "scheduled_time": "11:00",
-      "post_type": "image"
-    }
-  ]
-}
+[
+  {
+    "platform": "LinkedIn",
+    "text": "Boost your team's productivity by 30% with our new SaaS analytics. Get real-time insights, make data-driven decisions, and leave guesswork behind. #SaaS #Analytics #Productivity",
+    "hashtags": "#SaaS #Analytics #Productivity #BusinessIntelligence",
+    "image_description": "Dashboard showing key performance indicators and growth metrics.",
+    "scheduled_date": "2026-05-17",
+    "scheduled_time": "09:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Twitter",
+    "text": "Tired of guessing? Our SaaS analytics gives you clear data to drive growth. See what's working, fix what's not. Start saving 3 hours/day! #DataDriven #SaaSAnalytics",
+    "hashtags": "#SaaS #Analytics #Growth #Business",
+    "image_description": "Graph showing upward trend in business metrics.",
+    "scheduled_date": "2026-05-17",
+    "scheduled_time": "11:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Unlock the power of your data! Our SaaS analytics platform helps businesses like yours turn raw data into actionable insights. Improve efficiency, reduce costs, and scale faster. Learn more today!",
+    "hashtags": "#SaaS #Analytics #BusinessGrowth #DataInsights",
+    "image_description": "Team collaborating around a data dashboard.",
+    "scheduled_date": "2026-05-18",
+    "scheduled_time": "10:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Stop wasting time on manual reporting. Our SaaS analytics automates your data analysis, freeing up your team to focus on strategy. Get your free demo! #Automation #SaaS #Efficiency",
+    "hashtags": "#SaaS #Analytics #Automation #BusinessEfficiency",
+    "image_description": "Person looking relaxed while a dashboard updates automatically.",
+    "scheduled_date": "2026-05-19",
+    "scheduled_time": "09:30 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Twitter",
+    "text": "Ever wonder why your campaigns aren't hitting targets? Our analytics pinpoints exactly where to optimize. Get specific, get results. #MarketingAnalytics #SaaS",
+    "hashtags": "#Marketing #Analytics #SaaS #Optimization",
+    "image_description": "Chart highlighting areas for improvement.",
+    "scheduled_date": "2026-05-19",
+    "scheduled_time": "01:00 PM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Ready to make smarter business decisions? Our SaaS analytics provides the clarity you need. Understand your customers, streamline operations, and boost your bottom line. Click to discover how!",
+    "hashtags": "#SaaS #Analytics #SmartDecisions #CustomerInsights",
+    "image_description": "Diverse team reviewing analytics on a large screen.",
+    "scheduled_date": "2026-05-20",
+    "scheduled_time": "11:30 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Struggling with data overload? Our platform simplifies complex data into easy-to-understand visuals. Get the insights you need, fast. #DataVisualization #SaaSAnalytics",
+    "hashtags": "#SaaS #Analytics #DataVisualization #Simplicity",
+    "image_description": "Clean, modern data dashboard with clear charts.",
+    "scheduled_date": "2026-05-21",
+    "scheduled_time": "10:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Twitter",
+    "text": "What if you could predict future trends? Our SaaS analytics empowers you with predictive insights. Stay ahead of the curve. #PredictiveAnalytics #FutureProof",
+    "hashtags": "#SaaS #Analytics #Predictive #Innovation",
+    "image_description": "Futuristic interface showing trend predictions.",
+    "scheduled_date": "2026-05-21",
+    "scheduled_time": "02:00 PM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Join hundreds of businesses saving time and money with our advanced SaaS analytics. From small startups to large enterprises, we help you grow. Read our success stories!",
+    "hashtags": "#SaaS #Analytics #SuccessStories #BusinessGrowth",
+    "image_description": "Collage of happy business owners.",
+    "scheduled_date": "2026-05-22",
+    "scheduled_time": "09:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Our SaaS analytics isn't just about data; it's about giving you back your time. Automate reports, gain clarity, and focus on what truly matters. #TimeSaving #SaaSBenefits",
+    "hashtags": "#SaaS #Analytics #TimeManagement #Focus",
+    "image_description": "Clock with hands moving backwards, symbolizing time saved.",
+    "scheduled_date": "2026-05-24",
+    "scheduled_time": "10:30 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Twitter",
+    "text": "Get 47% conversion lift. Our analytics shows you how. Stop guessing, start growing. #ConversionRateOptimization #SaaS",
+    "hashtags": "#CRO #SaaS #Analytics #Marketing",
+    "image_description": "Bar chart showing significant conversion rate increase.",
+    "scheduled_date": "2026-05-24",
+    "scheduled_time": "12:00 PM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Transform your business with data-driven insights. Our SaaS analytics platform is designed for growth, efficiency, and unparalleled clarity. Start your free trial today!",
+    "hashtags": "#SaaS #Analytics #FreeTrial #BusinessTransformation",
+    "image_description": "Person confidently presenting data insights.",
+    "scheduled_date": "2026-05-25",
+    "scheduled_time": "02:00 PM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Most businesses struggle with fragmented data. Smart businesses use our integrated SaaS analytics to unify insights and drive cohesive strategy. #IntegratedAnalytics #SaaS",
+    "hashtags": "#SaaS #Analytics #DataIntegration #Strategy",
+    "image_description": "Puzzle pieces fitting together to form a complete dashboard.",
+    "scheduled_date": "2026-05-26",
+    "scheduled_time": "09:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Twitter",
+    "text": "What's your biggest business challenge? Our SaaS analytics helps you tackle it head-on with actionable data. #ProblemSolved #SaaS",
+    "hashtags": "#SaaS #Analytics #BusinessChallenges #Solutions",
+    "image_description": "Person overcoming an obstacle with a clear path ahead.",
+    "scheduled_date": "2026-05-26",
+    "scheduled_time": "11:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Discover the secret to sustained growth. Our SaaS analytics provides the deep insights you need to outperform the competition. Get started now!",
+    "hashtags": "#SaaS #Analytics #CompetitiveAdvantage #GrowthHacking",
+    "image_description": "Rocket launching into space, symbolizing rapid growth.",
+    "scheduled_date": "2026-05-27",
+    "scheduled_time": "10:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Imagine making decisions with 100% confidence. Our SaaS analytics delivers that. Eliminate doubt, embrace certainty. #ConfidentDecisions #SaaS",
+    "hashtags": "#SaaS #Analytics #DecisionMaking #Confidence",
+    "image_description": "Person looking confident while reviewing data.",
+    "scheduled_date": "2026-05-28",
+    "scheduled_time": "09:30 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Twitter",
+    "text": "Save 3 hours/day. Our SaaS analytics automates your reporting. More time for strategy, less for spreadsheets. #TimeSaver #SaaS",
+    "hashtags": "#SaaS #Analytics #Productivity #Automation",
+    "image_description": "Person smiling, looking at a watch, with more free time.",
+    "scheduled_date": "2026-05-28",
+    "scheduled_time": "01:00 PM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Ready for a data revolution? Our SaaS analytics platform brings cutting-edge insights to your fingertips. See the future of your business. Sign up for a demo!",
+    "hashtags": "#SaaS #Analytics #DataRevolution #FutureBusiness",
+    "image_description": "Futuristic interface with holographic data projections.",
+    "scheduled_date": "2026-05-29",
+    "scheduled_time": "11:30 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Don't just track data, understand it. Our SaaS analytics provides deep dives into your performance, revealing hidden opportunities. #DeepInsights #SaaS",
+    "hashtags": "#SaaS #Analytics #DataUnderstanding #Opportunities",
+    "image_description": "Magnifying glass over a complex data set, revealing insights.",
+    "scheduled_date": "2026-05-30",
+    "scheduled_time": "10:00 AM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Twitter",
+    "text": "What if your data could talk? Ours does. Get clear, actionable recommendations from our SaaS analytics. #ActionableInsights #SaaS",
+    "hashtags": "#SaaS #Analytics #Recommendations #DataTalks",
+    "image_description": "Speech bubble coming from a data chart.",
+    "scheduled_date": "2026-05-30",
+    "scheduled_time": "02:00 PM",
+    "post_type": "organic"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Experience the difference of truly intelligent analytics. Our SaaS platform is built to empower your business with precision and foresight. Get your personalized tour!",
+    "hashtags": "#SaaS #Analytics #IntelligentAnalytics #Foresight",
+    "image_description": "Person looking amazed at a sophisticated data dashboard.",
+    "scheduled_date": "2026-05-31",
+    "scheduled_time": "09:00 AM",
+    "post_type": "organic"
+  }
+]
