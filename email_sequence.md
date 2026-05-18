@@ -65,7 +65,7 @@ Many businesses unknowingly lose precious time to inefficient processes and frag
 2.  **Automated Workflows:** Set up rules to handle repetitive tasks, from data entry to report generation.
 3.  **Centralized Communication:** Keep your team connected and collaborative with integrated messaging and project updates.
 
-Imagine reclaiming hours each week – what could you achieve? Our users report significant productivity gains and a clearer path to their business goals. Stop wasting time, start achieving more.
+Imagine reclaiming hours each week � what could you achieve? Our users report significant productivity gains and a clearer path to their business goals. Stop wasting time, start achieving more.
 
 Ready to boost your productivity? Log in now to explore these features and more.
 
