@@ -2,40 +2,46 @@
 
 ## Google Ads
 
-### Variant 1
-*   **Headline 1:** Save 3 Hours/Day
-*   **Headline 2:** Boost Productivity 30%
-*   **Headline 3:** Get Your Free Demo
-*   **Description 1:** Stop manual reporting. Our SaaS analytics automates insights, freeing your team for strategy.
-*   **Description 2:** Make data-driven decisions with confidence. See real-time performance, optimize for growth.
+### Variant 1: Time-Saving Productivity Tool
 
-### Variant 2
-*   **Headline 1:** 47% Conversion Lift
-*   **Headline 2:** Actionable Data Insights
-*   **Headline 3:** Start Your Free Trial
-*   **Description 1:** Pinpoint exactly where to optimize your campaigns. Our analytics shows you how to grow.
-*   **Description 2:** Transform raw data into clear recommendations. Eliminate guesswork, achieve specific results.
+*   **Headline 1:** Save 3 Hours Daily
+*   **Headline 2:** Boost Your Productivity
+*   **Headline 3:** Get Started Free
+*   **Description 1:** Reclaim your day. Our tool automates tasks, freeing up valuable time for what matters most.
+*   **Description 2:** Stop wasting hours on manual work. Streamline your workflow and achieve more with less effort.
+
+### Variant 2: Workflow Streamlining
+
+*   **Headline 1:** Streamline Your Work
+*   **Headline 2:** Effortless Efficiency
+*   **Headline 3:** Try It Now
+*   **Description 1:** Simplify complex processes. Our intuitive platform makes managing projects and tasks a breeze.
+*   **Description 2:** Cut through the clutter. Organize your projects, collaborate seamlessly, and hit your deadlines.
 
 ## Meta (Facebook/Instagram)
 
-### Variant 1
-*   **Primary Text:** Tired of guessing what works? Our SaaS analytics gives you clear data to drive growth. Businesses using our platform see an average 30% boost in productivity. Stop wasting time, start seeing results.
-*   **Headline:** Unlock Data-Driven Growth
-*   **Description:** Get your free demo today!
+### Variant 1: Problem/Solution Focus
 
-### Variant 2
-*   **Primary Text:** Most businesses struggle with fragmented data. Smart businesses use our integrated SaaS analytics to unify insights and drive cohesive strategy. Save hours, make confident decisions.
-*   **Headline:** Make Smarter Decisions
-*   **Description:** Start your free trial now!
+*   **Primary Text:** Tired of endless to-do lists and feeling overwhelmed? Imagine getting back hours every single day. Our new productivity tool isn't just software; it's your secret weapon against wasted time. See how thousands are already transforming their work.
+*   **Headline:** Reclaim Your Day.
+*   **Description:** Stop feeling swamped. Start achieving.
 
-## LinkedIn
+### Variant 2: Benefit-Driven
 
-### Variant 1
-*   **Main Text:** Elevate your business with unparalleled clarity. Our SaaS analytics platform empowers leaders to move beyond assumptions, delivering precise, actionable insights that translate directly into a 30% increase in team productivity. Automate complex reporting and redirect your team's focus to strategic initiatives that drive real growth.
-*   **Headline:** Drive 30% Productivity Gains with SaaS Analytics
-*   **Description:** Discover how our platform transforms data into your most powerful asset. Request a personalized demo.
+*   **Primary Text:** What if you could save 3+ hours every day? More time for creativity, strategic thinking, or even just a longer lunch. Our tool makes it real. It’s designed to simplify your workflow, not complicate it. Discover true efficiency.
+*   **Headline:** Boost Your Output.
+*   **Description:** Work smarter, not harder.
 
-### Variant 2
-*   **Main Text:** In today's competitive landscape, data is your edge. Our advanced SaaS analytics solution provides the deep dives and predictive insights necessary to identify hidden opportunities and achieve a 47% conversion lift. Stop reacting to data; start proactively shaping your future with intelligent foresight.
-*   **Headline:** Achieve 47% Conversion Lift with Predictive Analytics
-*   **Description:** Learn how to leverage your data for superior business outcomes. Download our case study.
+## LinkedIn Ads
+
+### Variant 1: Professional Efficiency
+
+*   **Introductory Text:** For professionals seeking a competitive edge: our advanced platform delivers measurable efficiency gains. Reduce operational overhead and empower your team to focus on high-value tasks.
+*   **Headline:** Elevate Team Productivity.
+*   **Description:** Drive results. Optimize workflows.
+
+### Variant 2: Strategic Time Management
+
+*   **Introductory Text:** Strategic leaders know time is their most valuable asset. Our solution helps you manage it better, ensuring projects stay on track and teams remain agile. Achieve more with intelligent automation.
+*   **Headline:** Unlock Business Growth.
+*   **Description:** Maximize output. Minimize effort.
