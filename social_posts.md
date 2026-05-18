@@ -95,27 +95,27 @@ Feeling overwhelmed by too many business tools? My Business brings everything to
 ### LinkedIn Post
 **Platform:** LinkedIn
 **Post Text:**
-"My Business transformed our project management. We cut reporting time by 50% and improved team collaboration significantly." – Sarah J., Operations Director. Real results, real impact. See how My Business can empower your team.
+"My Business transformed our project management. We cut reporting time by 50% and improved team collaboration significantly." � Sarah J., Operations Director. Real results, real impact. See how My Business can empower your team.
 **Hashtags:** #MyBusiness #CustomerSuccess #Testimonial #BusinessImpact #ProjectManagement #EfficiencyGains
 **Suggested Time:** Thursday, May 23, 2026, 10:30 AM (EST)
 
 ### X (Twitter) Post
 **Platform:** X (Twitter)
 **Post Text:**
-"Cut reporting time by 50% with My Business!" – Sarah J. That's real impact. What could My Business do for you? #MyBusiness #SuccessStory #BusinessResults #Efficiency
+"Cut reporting time by 50% with My Business!" � Sarah J. That's real impact. What could My Business do for you? #MyBusiness #SuccessStory #BusinessResults #Efficiency
 **Hashtags:** #MyBusiness #SuccessStory #BusinessResults #Efficiency #CustomerLove
 **Suggested Time:** Thursday, May 23, 2026, 1:30 PM (EST)
 
 ### Facebook Post
 **Platform:** Facebook
 **Post Text:**
-We love hearing how My Business helps our customers thrive! "The integration capabilities are a game-changer. Our team is more productive than ever." – Mark T., CEO. Join businesses like Mark's who are achieving more with My Business.
+We love hearing how My Business helps our customers thrive! "The integration capabilities are a game-changer. Our team is more productive than ever." � Mark T., CEO. Join businesses like Mark's who are achieving more with My Business.
 **Hashtags:** #MyBusiness #ClientSuccess #BusinessTransformation #ProductivityBoost #HappyCustomers #BusinessSolutions
 **Suggested Time:** Thursday, May 23, 2026, 4:30 PM (EST)
 
 ### Instagram Post
 **Platform:** Instagram
 **Post Text:**
-"My Business cut our reporting time by 50%!" – Sarah J. That's the power of smart tools. Ready for your success story? Link in bio!
+"My Business cut our reporting time by 50%!" � Sarah J. That's the power of smart tools. Ready for your success story? Link in bio!
 **Hashtags:** #MyBusiness #SuccessStories #ClientLove #BusinessWins #EfficiencyGoals #Testimonial
 **Suggested Time:** Thursday, May 23, 2026, 6:30 PM (EST)
