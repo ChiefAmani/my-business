@@ -1,18 +1,19 @@
 # TECHNICAL_SPEC.md
 
 ## Project Overview
-Develop the core backend API for NutriTrack's MVP, enabling AI meal planning, calorie/macro tracking, and user management for busy professionals. This backend will support initial user testing and launch, validating core features and facilitating user acquisition.
+This project defines the core MVP backend for NutriTrack, an AI nutrition coaching SaaS. It will provide essential functionalities including user authentication, AI-driven meal planning, calorie/macro tracking, grocery list generation, and weekly nutrition reports. The backend will serve as the foundation for initial user testing and validation, enabling busy professionals to manage their nutrition efficiently.
 
 ## Tech Stack
-- Python==3.10.12
-- fastapi==0.110.0
+- fastapi==0.0.1
 - pydantic==2.6.1
 - uvicorn==0.27.1
 - sqlalchemy==2.0.25
-- psycopg2-binary==2.9.9
 - python-dotenv==1.0.1
+- passlib==1.7.4
+- python-jose[cryptography]==3.3.0
 
 ## File Tree
+```
 .
 |-- backend/
 |   |-- main.py
@@ -20,60 +21,181 @@ Develop the core backend API for NutriTrack's MVP, enabling AI meal planning, ca
 |   |-- models.py
 |   |-- schemas.py
 |   |-- crud.py
-|   \-- requirements.txt
-\-- .env
+|   |-- auth.py
+|   `-- requirements.txt
+`-- .env
+```
 
 ## API Endpoints
 
-### User Management
+### 1. User Registration
 - Method: POST
-- Path: /api/users/register
-- Request body: { "email": "string", "password": "string", "name": "string", "age": "integer", "weight_kg": "float", "height_cm": "float", "activity_level": "string" }
-- Response: { "id": "integer", "email": "string", "name": "string" }
+- Path: /register
+- Request body:
+  ```json
+  {
+    "email": "string",
+    "password": "string"
+  }
+  ```
+- Response:
+  ```json
+  {
+    "id": "integer",
+    "email": "string"
+  }
+  ```
 - Auth: None
 
+### 2. User Login (OAuth2 Token)
 - Method: POST
-- Path: /api/users/login
-- Request body: { "email": "string", "password": "string" }
-- Response: { "access_token": "string", "token_type": "bearer" }
+- Path: /token
+- Request body: (form-data)
+  - `username`: "string" (user's email)
+  - `password`: "string"
+- Response:
+  ```json
+  {
+    "access_token": "string",
+    "token_type": "bearer"
+  }
+  ```
 - Auth: None
 
-### Meal Planning
+### 3. Generate Meal Plan
 - Method: POST
-- Path: /api/meal_plans/generate
-- Request body: { "user_id": "integer", "dietary_preferences": "list[string]", "calorie_target": "integer", "macro_split": { "protein": "float", "carbs": "float", "fat": "float" } }
-- Response: { "plan_id": "integer", "meals": "list[object]" } (object contains meal details like name, ingredients, calories, macros)
+- Path: /meal-plans
+- Request body:
+  ```json
+  {
+    "user_id": "integer",
+    "dietary_preferences": "array of strings",
+    "calorie_target": "integer",
+    "duration_days": "integer"
+  }
+  ```
+- Response:
+  ```json
+  {
+    "id": "integer",
+    "user_id": "integer",
+    "plan_details": "json_object",
+    "created_at": "datetime"
+  }
+  ```
 - Auth: Bearer token required
 
-- Method: GET
-- Path: /api/meal_plans/{plan_id}
-- Response: { "plan_id": "integer", "meals": "list[object]" }
-- Auth: Bearer token required
-
-### Calorie/Macro Tracking
+### 4. Log Food Item
 - Method: POST
-- Path: /api/track_entries
-- Request body: { "user_id": "integer", "meal_id": "integer", "consumed_at": "datetime", "calories": "integer", "protein": "float", "carbs": "float", "fat": "float" }
-- Response: { "entry_id": "integer", "user_id": "integer", "meal_id": "integer", "consumed_at": "datetime" }
+- Path: /food-logs
+- Request body:
+  ```json
+  {
+    "user_id": "integer",
+    "food_name": "string",
+    "calories": "integer",
+    "protein_g": "float",
+    "carbs_g": "float",
+    "fat_g": "float",
+    "log_date": "date"
+  }
+  ```
+- Response:
+  ```json
+  {
+    "id": "integer",
+    "user_id": "integer",
+    "food_name": "string",
+    "calories": "integer",
+    "protein_g": "float",
+    "carbs_g": "float",
+    "fat_g": "float",
+    "log_date": "date",
+    "created_at": "datetime"
+  }
+  ```
 - Auth: Bearer token required
 
+### 5. Get Food Logs
 - Method: GET
-- Path: /api/track_entries/user/{user_id}
-- Response: "list[object]" (each object contains tracking entry details)
+- Path: /food-logs
+- Query parameters:
+  - `user_id`: "integer"
+  - `start_date`: "date" (optional)
+  - `end_date`: "date" (optional)
+- Response:
+  ```json
+  [
+    {
+      "id": "integer",
+      "user_id": "integer",
+      "food_name": "string",
+      "calories": "integer",
+      "protein_g": "float",
+      "carbs_g": "float",
+      "fat_g": "float",
+      "log_date": "date",
+      "created_at": "datetime"
+    }
+  ]
+  ```
+- Auth: Bearer token required
+
+### 6. Generate Grocery List
+- Method: GET
+- Path: /grocery-lists
+- Query parameters:
+  - `user_id`: "integer"
+  - `meal_plan_id`: "integer" (optional, if not provided, use active plan)
+- Response:
+  ```json
+  {
+    "id": "integer",
+    "user_id": "integer",
+    "meal_plan_id": "integer",
+    "items": "array of strings",
+    "generated_at": "datetime"
+  }
+  ```
+- Auth: Bearer token required
+
+### 7. Get Weekly Nutrition Report
+- Method: GET
+- Path: /nutrition-reports/weekly
+- Query parameters:
+  - `user_id`: "integer"
+  - `end_date`: "date" (defaults to current week if not provided)
+- Response:
+  ```json
+  {
+    "user_id": "integer",
+    "start_date": "date",
+    "end_date": "date",
+    "total_calories": "integer",
+    "avg_macros": {
+      "protein_g": "float",
+      "carbs_g": "float",
+      "fat_g": "float"
+    },
+    "insights": "string",
+    "recommendations": "string"
+  }
+  ```
 - Auth: Bearer token required
 
 ## Environment Variables
-- DATABASE_URL="postgresql://user:password@host:port/database"
-- SECRET_KEY="your_super_secret_key"
-- ALGORITHM="HS256"
-- ACCESS_TOKEN_EXPIRE_MINUTES="30"
+- `DATABASE_URL`: "sqlite:///./sql_app.db" (for MVP, can be PostgreSQL in production)
+- `SECRET_KEY`: "your-super-secret-key" (for JWT token encoding)
+- `ALGORITHM`: "HS256" (for JWT token encoding)
+- `ACCESS_TOKEN_EXPIRE_MINUTES`: "30" (for JWT token expiration)
 
 ## Dependencies
-fastapi==0.110.0
+```
+fastapi==0.0.1
 pydantic==2.6.1
 uvicorn==0.27.1
 sqlalchemy==2.0.25
-psycopg2-binary==2.9.9
 python-dotenv==1.0.1
+passlib==1.7.4
 python-jose[cryptography]==3.3.0
-passlib[bcrypt]==1.7.4
+```
