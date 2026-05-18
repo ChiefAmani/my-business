@@ -1,55 +1,118 @@
-# CAMPAIGN_STRATEGY.md
+# CAMPAIGN STRATEGY
 
-## Product/Service Overview and Unique Value Proposition
-*   **Product:** AI-powered project management assistant for software development teams.
-*   **Unique Value Proposition:** Automates routine project management tasks, provides real-time insights into project health, and facilitates seamless communication, reducing overhead by 30% and accelerating delivery cycles.
+## 1. Product/Service Overview and Unique Value Proposition
+*   **Product/Service:** [Name of product/service]
+*   **Description:** [Brief description of what it is and what it does]
+*   **Unique Value Proposition (UVP):** [What makes it unique and why customers should care]
 
-## Target Audience Personas
+## 2. Target Audience Personas
+### Persona 1: [Persona Name]
+*   **Demographics:** [Age, gender, income, location, occupation, education]
+*   **Pain Points:** [Key challenges or problems this persona faces]
+*   **Online Behavior:** [Preferred social media platforms, content consumption habits, online communities]
+*   **Goals/Aspirations:** [What this persona wants to achieve]
 
-### Persona 1: Sarah, The Agile Team Lead
-*   **Demographics:** 30-45 years old, experienced in software development, leads a team of 5-10 engineers.
-*   **Pain Points:** Manual sprint planning, difficulty tracking cross-functional dependencies, lack of real-time visibility into project blockers, time spent on administrative tasks instead of coding/mentoring.
-*   **Online Behavior:** Active on LinkedIn, reads tech blogs (e.g., Martin Fowler, Atlassian blogs), participates in developer forums (Stack Overflow, Reddit r/programming), uses Slack/Teams for internal communication.
+### Persona 2: [Persona Name]
+*   **Demographics:** [Age, gender, income, location, occupation, education]
+*   **Pain Points:** [Key challenges or problems this persona faces]
+*   **Online Behavior:** [Preferred social media platforms, content consumption habits, online communities]
+*   **Goals/Aspirations:** [What this persona wants to achieve]
 
-### Persona 2: David, The Engineering Manager
-*   **Demographics:** 40-55 years old, manages multiple engineering teams (20-50 engineers), reports to CTO.
-*   **Pain Points:** High-level visibility into multiple projects, resource allocation challenges, predicting project delays, ensuring team productivity and morale, justifying ROI of tools.
-*   **Online Behavior:** Reads industry reports (Gartner, Forrester), attends webinars on engineering leadership, follows tech news on Twitter/X, uses LinkedIn for professional networking, subscribes to newsletters from tech VCs.
+## 3. Competitor Analysis
+*   **Competitor 1:** [Competitor Name]
+    *   **Target Audience Overlap:** [How much overlap with our target audience]
+    *   **Content Strategy:** [Types of content, themes, platforms used]
+    *   **Strengths/Weaknesses:** [What they do well, where they fall short]
+*   **Competitor 2:** [Competitor Name]
+    *   **Target Audience Overlap:** [How much overlap with our target audience]
+    *   **Content Strategy:** [Types of content, themes, platforms used]
+    *   **Strengths/Weaknesses:** [What they do well, where they fall short]
 
-## Competitor Analysis
-*   **Jira:** Dominant market share, comprehensive features, but often perceived as complex and requiring significant setup. Strong in issue tracking.
-*   **Asana:** User-friendly interface, good for task management, but less specialized for software development workflows and technical project insights.
-*   **Monday.com:** Highly customizable, visual, but can lack depth for complex engineering projects and integrations.
-*   **Trello:** Simple, Kanban-focused, but not suitable for large-scale or intricate software projects.
+## 4. Platform Strategy
+*   **Platform 1:** [e.g., Instagram]
+    *   **Rationale:** [Why this platform is chosen for the target audience]
+    *   **Best Practices:** [Platform-specific content formats, engagement tactics]
+*   **Platform 2:** [e.g., LinkedIn]
+    *   **Rationale:** [Why this platform is chosen for the target audience]
+    *   **Best Practices:** [Platform-specific content formats, engagement tactics]
 
-## Platform Strategy
+## 5. Messaging Pillars
+*   **Pillar 1:** [Core theme/message]
+*   **Pillar 2:** [Core theme/message]
+*   **Pillar 3:** [Core theme/message]
+
+## 6. Content Types per Platform
+*   **Instagram:** [Text posts, carousels, stories, reels, threads]
+*   **LinkedIn:** [Text posts, articles, video, infographics]
+*   **Email:** [Newsletters, promotional emails, educational content]
+*   **Ads:** [Image ads, video ads, carousel ads]
+
+## 7. Posting Cadence
+*   **Instagram:** [e.g., 3x per week]
+*   **LinkedIn:** [e.g., 2x per week]
+*   **Email:** [e.g., 1x per month]
+
+## 8. Hashtag Research
+*   **Instagram:**
+    *   **High Volume:** [#hashtag1, #hashtag2]
+    *   **Low Volume:** [#hashtag3, #hashtag4]
 *   **LinkedIn:**
-    *   **Why:** Professional network, ideal for reaching team leads and engineering managers. High engagement for B2B content.
-    *   **Best Practices:** Share thought leadership, case studies, product updates, and engage in relevant groups.
-*   **Twitter/X:**
-    *   **Why:** Real-time updates, tech community discussions, quick announcements.
-    *   **Best Practices:** Short, impactful posts, engage with industry influencers, share snippets of insights.
-*   **Tech Blogs/Forums (e.g., Medium, Dev.to, Reddit):**
-    *   **Why:** Direct access to developers and team leads seeking solutions and knowledge.
-    *   **Best Practices:** Publish in-depth articles, tutorials, participate in discussions, answer questions.
+    *   **Relevant:** [#hashtag5, #hashtag6]
 
-## Messaging Pillars
-1.  **Efficiency & Automation:** Highlight how the tool reduces manual effort and streamlines workflows.
-2.  **Visibility & Insights:** Emphasize real-time data, predictive analytics, and actionable intelligence for better decision-making.
-3.  **Collaboration & Communication:** Focus on improved team synergy and reduced communication friction.
-4.  **Accelerated Delivery:** Showcase how the tool helps teams deliver faster and with higher quality.
+## 9. Tone of Voice Guidelines
+*   **Overall Tone:** [e.g., Professional, friendly, authoritative, playful]
+*   **Keywords to Use:** [Specific words or phrases]
+*   **Keywords to Avoid:** [Specific words or phrases]
 
-## Content Types per Platform
-*   **LinkedIn:** Long-form posts, articles, case studies, infographics, short video testimonials, polls.
-*   **Twitter/X:** Short text updates, links to blog posts, quick tips, industry news commentary, polls.
-*   **Tech Blogs/Forums:** In-depth articles, tutorials, "how-to" guides, thought leadership pieces.
+## 10. Social Media Content Briefs
+### Instagram Post - [Campaign/Theme Name]
+*   **Objective:** [e.g., Drive website traffic, increase engagement]
+*   **Key Message:** [Primary takeaway for the audience]
+*   **Call to Action (CTA):** [e.g., "Link in bio", "Shop now"]
+*   **Visual Requirements:** [Image/video type, style, text overlays]
+*   **Caption Ideas:** [2-3 variations, including emojis and line breaks]
+*   **Relevant Hashtags:** [5-10 specific hashtags for this post]
 
-## Posting Cadence
-*   **LinkedIn:** 3-4 times per week.
-*   **Twitter/X:** 5-7 times per week.
-*   **Tech Blogs/Forums:** 1-2 in-depth articles per month.
+### LinkedIn Post - [Campaign/Theme Name]
+*   **Objective:** [e.g., Establish thought leadership, generate leads]
+*   **Key Message:** [Primary takeaway for the audience]
+*   **Call to Action (CTA):** [e.g., "Read our latest article", "Connect with us"]
+*   **Visual Requirements:** [Image/video type, professional style]
+*   **Caption Ideas:** [2-3 variations, professional tone]
+*   **Relevant Hashtags:** [3-5 specific hashtags for this post]
 
-## Hashtag Research
-*   **LinkedIn:** #ProjectManagement #AgileDevelopment #SoftwareDevelopment #TechLeadership #EngineeringManagement #AItools #DevOps #Productivity #TeamCollaboration #SoftwareEngineering #DigitalTransformation #FutureOfWork #TechInnovation #SaaS #Startup
-*   **Twitter/X:** #Agile #DevOps #PM #SoftwareDev #AI #Tech #Coding #Engineering #Productivity #Teamwork #ProjectMgmt #Innovation #SaaS #Startup #FutureOfTech
-*   **Tech Blogs/Forums:** #ProjectManagement #Agile #SoftwareDevelopment #AI #DevOps #Engineering #Productivity #TechTutorials #CodingTips #SoftwareArchitecture
+## 11. Email Sequence Content Briefs
+### Email 1: Welcome Email - [Sequence Name]
+*   **Subject Line:** [3-5 options]
+*   **Objective:** [e.g., Onboard new users, introduce the brand]
+*   **Key Message:** [What the recipient should understand]
+*   **Call to Action (CTA):** [e.g., "Explore our features", "Visit our website"]
+*   **Content Sections:** [e.g., Greeting, brief intro, value proposition, social links]
+*   **Tone:** [e.g., Friendly, informative]
+
+### Email 2: Product Feature Highlight - [Sequence Name]
+*   **Subject Line:** [3-5 options]
+*   **Objective:** [e.g., Educate on a specific feature, drive adoption]
+*   **Key Message:** [Benefit of the highlighted feature]
+*   **Call to Action (CTA):** [e.g., "Learn more", "Try it now"]
+*   **Content Sections:** [e.g., Feature name, problem it solves, how it works, testimonial]
+*   **Tone:** [e.g., Educational, persuasive]
+
+## 12. Ad Copy Content Briefs
+### Facebook/Instagram Ad - [Campaign Name]
+*   **Objective:** [e.g., Lead generation, brand awareness, sales]
+*   **Target Audience:** [Specific targeting parameters for the ad]
+*   **Headline Options:** [3-5 compelling headlines]
+*   **Primary Text Options:** [2-3 variations of the main ad copy]
+*   **Call to Action (CTA) Button:** [e.g., "Learn More", "Shop Now", "Sign Up"]
+*   **Visual Requirements:** [Image/video specifications, aspect ratios]
+*   **Landing Page:** [URL where the ad directs users]
+
+### Google Search Ad - [Campaign Name]
+*   **Objective:** [e.g., Drive website traffic, generate calls]
+*   **Keywords:** [Targeted keywords for the ad group]
+*   **Headline Options:** [3-5 variations, including keywords]
+*   **Description Line Options:** [2-3 variations, highlighting benefits]
+*   **Display URL Path:** [e.g., example.com/product]
+*   **Call to Action (CTA):** [Implicit in headlines/descriptions]
+*   **Landing Page:** [URL where the ad directs users]
