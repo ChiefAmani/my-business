@@ -8,7 +8,42 @@
 ### Persona 1: Sarah, The Solopreneur
 *   **Demographics:** 35-45 years old, owns a small consulting firm or freelance business, tech-savvy but time-poor.
 *   **Pain Points:** Juggling multiple tools for client management, project tracking, and invoicing; struggles with administrative tasks taking away from billable hours; needs a consolidated view of her business performance.
-*   **Online Behavior:** Active on LinkedIn for professional networking, reads industry blogs, uses productivity apps, searches for "best CRM for small business" or "freelance project management tools."
+*   **Online Behavior:** Active on LinkedIn for professional networking, reads industry blogs, uses productivity apps, searches for "best CRM for small business" or "freelance project management software."
+
+### Persona 2: David, The Small Business Owner
+*   **Demographics:** 40-55 years old, runs a growing service-based business (e.g., landscaping, plumbing, small agency) with 5-15 employees. Less tech-savvy, relies on recommendations.
+*   **Pain Points:** Inefficient team collaboration, difficulty tracking employee hours and project progress, inconsistent invoicing, lack of clear financial overview, struggles with scaling operations.
+*   **Online Behavior:** Uses Facebook for local business groups, reads general business news, searches for "small business management tools" or "team collaboration software."
+
+### Persona 3: Emily, The Operations Manager
+*   **Demographics:** 30-40 years old, works in a small but established company (15-50 employees), responsible for optimizing internal processes. Highly organized and data-driven.
+*   **Pain Points:** Disparate systems leading to data silos, manual data entry errors, lack of real-time reporting, difficulty integrating new tools, needs to improve operational efficiency and reporting.
+*   **Online Behavior:** Active on LinkedIn for professional development, subscribes to SaaS industry newsletters, attends webinars on business process automation, searches for "integrated business platforms" or "SaaS for operational efficiency."
+
+## Pricing Strategy
+"My Business" will offer a tiered subscription model to cater to different SMB needs:
+
+*   **Starter Plan:** $29/month (or $290/year)
+    *   **Target:** Solopreneurs and very small teams (1-3 users).
+    *   **Features:** Basic CRM, project management (up to 10 active projects), invoicing (up to 20 invoices/month), basic analytics dashboard.
+    *   **Value Proposition:** Affordable entry point for essential tools, replaces multiple free/cheap apps.
+
+*   **Growth Plan:** $79/month (or $790/year)
+    *   **Target:** Growing small businesses (4-15 users).
+    *   **Features:** All Starter features, plus advanced CRM (custom fields, automation), unlimited projects, advanced invoicing (recurring invoices, payment reminders), enhanced analytics, team collaboration tools, 24/7 priority support.
+    *   **Value Proposition:** Comprehensive solution for scaling operations, improved team efficiency, deeper insights.
+
+*   **Premium Plan:** $149/month (or $1490/year)
+    *   **Target:** Established small to medium-sized businesses (16-50 users).
+    *   **Features:** All Growth features, plus enterprise-grade CRM, advanced project portfolio management, custom reporting, API access for integrations, dedicated account manager, onboarding support.
+    *   **Value Proposition:** Full operational control, seamless integration with existing systems, strategic insights for sustained growth.
+
+*   **Add-ons:**
+    *   Additional users: $10/user/month for Growth and Premium plans.
+    *   Premium integrations: Price varies based on specific integration.
+
+*   **Free Trial:** 14-day free trial for all plans, no credit card required.
+*   **Discount:** 2 months free with annual subscription. management tools."
 
 ### Persona 2: David, The Small Business Owner
 *   **Demographics:** 40-55 years old, runs a growing service-based business (e.g., marketing agency, IT services) with 5-15 employees.
